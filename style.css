@@ -1,0 +1,78 @@
+body {
+  background-image:url(img.jpg);
+  color: #670439;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20;
+  padding: 0;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+}
+
+.logo {
+  width: 150px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 10px 0;
+  margin-top: 20px;
+}
+
+.whatsapp-icon{font-size: 30px;
+color: green;
+margin-right: 50px;
+position: relative;
+transition: transform 0.3s ease;
+:hover{
+transform: translateY(-5px);
+}
+}
+
+
+.instagram-icon{font-size: 30px;
+color: rgb(139, 0, 0);
+margin-right: 50px;
+position: relative;
+transition: transform 0.3s ease;
+:hover{
+transform: translateY(-5px);
+}}
+
+.email-icon{font-size: 30px;
+color: rgb(236, 83, 83);
+margin-right: 50px;
+position: relative;
+transition: transform 0.3s ease;
+:hover{
+transform: translateY(-5px);
+}}
+
+.facebook-icon{font-size: 30px;
+color: rgb(6, 31, 190);
+position: relative;
+transition: transform 0.3s ease;
+:hover{
+transform: translateY(-5px);
+}}
+
+.links .btn {
+  display: block;
+  background: #9b2929;
+  color: #fff;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.links .btn:hover {
+  background: #b80f0f;
+}
