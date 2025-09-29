@@ -26,7 +26,7 @@ h1 {
 
 .whatsapp-icon{font-size: 30px;
 color: green;
-margin-right: 40px;
+margin-right: 20px;
 position: relative;
 transition: transform 0.3s ease;
 :hover{
@@ -37,7 +37,7 @@ transform: translateY(-5px);
 
 .instagram-icon{font-size: 30px;
 color: rgb(139, 0, 0);
-margin-right: 40px;
+margin-right: 20px;
 position: relative;
 transition: transform 0.3s ease;
 :hover{
@@ -46,7 +46,7 @@ transform: translateY(-5px);
 
 .email-icon{font-size: 30px;
 color: rgb(236, 83, 83);
-margin-right: 40px;
+margin-right: 20px;
 position: relative;
 transition: transform 0.3s ease;
 :hover{
@@ -77,3 +77,4 @@ transform: translateY(-5px);
   background: #b80f0f;
 
 }
+
