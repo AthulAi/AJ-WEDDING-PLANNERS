@@ -55,6 +55,7 @@ transform: translateY(-5px);
 
 .facebook-icon{font-size: 30px;
 color: rgb(6, 31, 190);
+               margin-right: 20px;
 position: relative;
 transition: transform 0.3s ease;
 :hover{
@@ -77,4 +78,5 @@ transform: translateY(-5px);
   background: #b80f0f;
 
 }
+
 
